@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working and learning C programming, Python, DJango and some static websites using basic html/css.
 
 - 💬 Ask me about Linux, programming and Tech.
-- 📫 How to reach me: Check my digital profiles or contact through contact form in https://www.yogeshlamichhane.com.np
-- ⚡ Fun fact: I don't know how to code properly but i act like a pro.
+- 📫 How to reach me: Connect with me on social media or contact me through contact form at my website: https://www.yogeshlamichhane.com.np
+- ⚡ Fun fact: I don't know how to code properly but people call me great coder😂.
