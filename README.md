@@ -1,6 +1,5 @@
-<h2 color=#47f850> Hi there 👋</h2>
-<br>
-<h3>I am a tech enthusiast, linux geek from Kathmandu Nepal.</h3>
+### Hi there 👋
+<h3 color=green>I am a tech enthusiast, linux geek from Kathmandu Nepal.</h3>
 <!--
 **YogeshLamichhane/YogeshLamichhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
